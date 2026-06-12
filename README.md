@@ -17,8 +17,8 @@ my setup in chroot :
 `run android apis with this daemon in chroot`
 https://github.com/vaibhav423/Sushi
 
-`wip`
-https://github.com/vaibhav423/Sushi
+`work-in-progress`
+https://github.com/vaibhav423/Sushi-x
 
 things to do:
 * cli way to add android widgets
