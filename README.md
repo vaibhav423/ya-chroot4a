@@ -20,7 +20,7 @@ https://github.com/vaibhav423/Sushi
 `work-in-progress`
 https://github.com/vaibhav423/Sushi-x
 
-things to do:
+## things to do:
 * cli way to add android widgets
 * lsposed daemon 4 code exec
 * add termux-api in sushi
